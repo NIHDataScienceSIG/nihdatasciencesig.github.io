@@ -2,21 +2,25 @@
 
 
 **Haloarchaeal genomics and the origin of the prokaryotic ‘species’**
+
 Presenter: Shil DasSarma, Professor University of Maryland, Baltimore
 Thursday, February 8th, 11 am
 Location: 38A B2 library (second door on the right from main elevators)
  
 **Title TBD**
+
 Presenter: Jonas Korlach, CSO PacBio
 Friday, February 16th, 11 am
 Location: NLM Visitor Center
  
 **One-day NIH Data Science Learning and Testing Hackathon** (application required)
+
 Friday, February 23rd, 9 am - 5 pm
 Location: Released to participants upon acceptance
 Announcement with links to Application: http://bit.ly/2ndjvXt
  
 **Analyzing Massive Genomics Datasets using Apache Spark**
+
 Presenter: Frank Nothaft, Genomics Lead, DataBricks
 Monday, February 26th, 11 am
 Location: Building 40, Room 1201/1203
