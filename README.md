@@ -14,7 +14,7 @@ Location: NLM Visitor Center
 **One-day NIH Data Science Learning and Testing Hackathon (application required)**<br>
 Friday, February 23rd, 9 am - 5 pm<br>
 Location: Released to participants upon acceptance<br>
-Announcement with links to Application: (http://bit.ly/2ndjvXt)[http://bit.ly/2ndjvXt]
+Announcement with links to Application: [http://bit.ly/2ndjvXt](http://bit.ly/2ndjvXt)
  
 **Analyzing Massive Genomics Datasets using Apache Spark**<br>
 Presenter: Frank Nothaft, Genomics Lead, DataBricks<br>
