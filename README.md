@@ -1,24 +1,24 @@
 ## NIH Data Science SIG Upcoming Events
 Unless otherwise noted, events are open to all and do not require registration.
 
-**Haloarchaeal genomics and the origin of the prokaryotic ‘species’**
-Presenter: Shil DasSarma, Professor University of Maryland, Baltimore
-Thursday, February 8th, 11 am
+**Haloarchaeal genomics and the origin of the prokaryotic ‘species’**<br>
+Presenter: Shil DasSarma, Professor University of Maryland, Baltimore<br>
+Thursday, February 8th, 11 am<br>
 Location: 38A B2 library (second door on the right from main elevators)
  
-**Title TBD**
-Presenter: Jonas Korlach, CSO PacBio
-Friday, February 16th, 11 am
+**Title TBD**<br>
+Presenter: Jonas Korlach, CSO PacBio<br>
+Friday, February 16th, 11 am<br>
 Location: NLM Visitor Center
  
-**One-day NIH Data Science Learning and Testing Hackathon (application required)**
-Friday, February 23rd, 9 am - 5 pm
-Location: Released to participants upon acceptance
+**One-day NIH Data Science Learning and Testing Hackathon (application required)**<br>
+Friday, February 23rd, 9 am - 5 pm<br>
+Location: Released to participants upon acceptance<br>
 Announcement with links to Application: http://bit.ly/2ndjvXt
  
-**Analyzing Massive Genomics Datasets using Apache Spark**
-Presenter: Frank Nothaft, Genomics Lead, DataBricks
-Monday, February 26th, 11 am
+**Analyzing Massive Genomics Datasets using Apache Spark**<br>
+Presenter: Frank Nothaft, Genomics Lead, DataBricks<br>
+Monday, February 26th, 11 am<br>
 Location: Building 40, Room 1201/1203
 
 
