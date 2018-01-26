@@ -2,9 +2,9 @@
 
 <dl>
 <dt>Haloarchaeal genomics and the origin of the prokaryotic ‘species’</dt>
-<dd>Presenter: Shil DasSarma, Professor University of Maryland, Baltimore</dd>
-<dd>Thursday, February 8th, 11 am</dd>
-<dd>Location: 38A B2 library (second door on the right from main elevators)</dd>
+<dd>Presenter: Shil DasSarma, Professor University of Maryland, Baltimore<br>
+Thursday, February 8th, 11 am<br>
+Location: 38A B2 library (second door on the right from main elevators)</dd>
  </dl>
  
 **Title TBD**
