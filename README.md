@@ -1,16 +1,16 @@
 ## NIH Data Science SIG Upcoming Events
-Unless otherwise noted, events are open to all and do not require registration.
+This page includes events of interest to and/or sponsored by the NIH Data Science SIG. Unless otherwise noted, events are open to all and do not require registration. If you'd like to list your event on this page, please submit a pull request on the [Github repo](https://github.com/NIHDataScienceSIG/nihdatasciencesig.github.io), or contact [Lisa Federer](mailto:lisa.federer@nih.gov). 
 
 **NIDDK Seminar -- Chromosome Conformation in Context**<br>
 Presenter: Dr. James Taylor, Ralph S. O'Connor Associate Professor of Biology and Computer Science, Johns Hopkins<br>
-Thursday, Feb 1st, 11 AM<br>
-Building 50 Rm1328<br>
+Thursday, Feb 1st, 11 am<br>
+Building 50, Rm 1328
 
 **Bioinformatics SIG Pi Day Winners Seminars**<br>
 Titles: "Balancing Modernity, Stability, and Reproducibility in Computational Analyses" and "Striking Back at Alzheimer’s Disease: From Bioenergetics to Behavioral Modification"<br>
 Presenters: David Hoover and Afif Elghraoui, CIT, Helix Group and Robert Pawlosky, NIAAA<br>
 Thursday, February 1st, 3 pm<br>
-Location: Building 50, room 1328/1334 (rear)<br>
+Location: Building 50, room 1328/1334 (rear)
 
 **Haloarchaeal genomics and the origin of the prokaryotic ‘species’**<br>
 Presenter: Shil DasSarma, Professor University of Maryland, Baltimore<br>
