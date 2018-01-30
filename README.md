@@ -3,7 +3,7 @@ Unless otherwise noted, events are open to all and do not require registration.
 
 **NIDDK Seminar -- Chromosome Conformation in Context**<br>
 Presenter: Dr. James Taylor, Ralph S. O'Connor Associate Professor of Biology and Computer Science, Johns Hopkins<br>
-Thurs, Feb 1 11:00 AM<br>
+Thursday, Feb 1st, 11 AM<br>
 Building 50 Rm1328<br>
 
 **Bioinformatics SIG Pi Day Winners Seminars**<br>
