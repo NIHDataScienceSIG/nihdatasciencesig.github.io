@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NIH Data Science SIG</title>
+    <link>https://nihdatasciencesig.github.io/</link>
+    <description>Recent content on NIH Data Science SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>seandavi@gmail.com (NIH Data Science SIG)</managingEditor>
+    <webMaster>seandavi@gmail.com (NIH Data Science SIG)</webMaster>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nihdatasciencesig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analyzing massive genomics datasets using Apache Spark</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/26/analyzing-massive-genomics-datasets-using-apache-spark/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/26/analyzing-massive-genomics-datasets-using-apache-spark/</guid>
+      <description>Abstract Powered by the continuous decrease of the cost of sequencing a single human genome, &amp;laquo;big data&amp;raquo; sequencing studies (&amp;gt;10,000 sample) are becoming common in both industrial and research settings. Recently, several prominent libraries like GATK4, ADAM, and Hail have used Apache Spark to achieve this goal. Apache Spark is a &amp;laquo;map-reduce&amp;raquo;-like system that allows code written in Scala, Java, Python, R, or SQL to be run in parallel across a cluster with hundreds to thousands of cores.</description>
+    </item>
+    
+    <item>
+      <title>One-day NIH Data Science Learning and Testing Hackathon (application required)</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/23/one-day-nih-data-science-learning-and-testing-hackathon-application-required/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/23/one-day-nih-data-science-learning-and-testing-hackathon-application-required/</guid>
+      <description>About the event The NIH will host a Learning and Testing Data Science hackathon on February 23rd, 2018 on the main campus in Bethesda, MD. Learners will test alpha and beta code that have been generated in full, collaborative development hackathons for a wide range of scientific problems, including general bioinformatics and genomic analyses in addition to text, image, and sequence processing. This event is for researchers who are in the early stages of their data science journey, including students and postdocs.</description>
+    </item>
+    
+    <item>
+      <title>Haloarchaeal genomics and the origin of the prokaryotic ‘species’</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/08/haloarchaeal-genomics-and-the-origin-of-the-prokaryotic-species/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/08/haloarchaeal-genomics-and-the-origin-of-the-prokaryotic-species/</guid>
+      <description>Presenter: Shil DasSarma, Professor University of Maryland, Baltimore
+Thursday, February 8th, 11 am
+Location: 38A B2 library (second door on the right from main elevators)
+About the speaker Dr. DasSarma is a pioneering microbiologist well-known for his contributions to the genomics, molecular biology, and biotechnology of Archaea and the field of Astrobiology. Prior to joining the Institute of Marine and Environmental Technology, University of Maryland School of Medicine, he was a Professor in the University of Massachusetts Amherst and the University of Maryland Biotechnology Institute.</description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics Special Interest Group 2017 Pi Day Winner Seminars</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/01/bioinformatics-special-interest-group-2017-pi-day-winner-seminars/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/01/bioinformatics-special-interest-group-2017-pi-day-winner-seminars/</guid>
+      <description>Bioinformatics SIG Pi Day Winners Seminars
+Titles:
+ “Balancing Modernity, Stability, and Reproducibility in Computational Analyses” “Striking Back at Alzheimer’s Disease: From Bioenergetics to Behavioral Modification”  Presenters:
+ David Hoover and Afif Elghraoui, CIT, Helix Group, Robert Pawlosky, NIAAA  Thursday, February 1st, 3 pm
+Location: Building 50, room 1328/1334 (rear)</description>
+    </item>
+    
+    <item>
+      <title>Chromosome Conformation in Context</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/01/chromosome-conformation-in-context/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/01/chromosome-conformation-in-context/</guid>
+      <description>title: NIDDK Seminar – Chromosome Conformation in Context
+Presenter: Dr. James Taylor, Ralph S. O’Connor Associate Professor of Biology and Computer Science, Johns Hopkins
+When: Thursday, Feb 1st, 11 am
+Where: Building 50, Rm 1328</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Brain Imaging and Neuroscience</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/01/30/machine-learning-in-brain-imaging-and-neuroscience/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/01/30/machine-learning-in-brain-imaging-and-neuroscience/</guid>
+      <description>Abstract Deep learning has arisen around 2006 as a renewal of neural networks research allowing such models to have more layers. It is leading the charge of a renewal of AI both inside and outside academia, with billions of dollars being invested and expected fallouts in the trillions by 2030. Theoretical investigations have shown that functions obtained as deep compositions of simpler functions (which includes both deep and recurrent nets) can express highly varying functions (with many ups and downs and different input regions that can be distinguished) much more efficiently (with fewer parameters) than otherwise.</description>
+    </item>
+    
+  </channel>
+</rss>
