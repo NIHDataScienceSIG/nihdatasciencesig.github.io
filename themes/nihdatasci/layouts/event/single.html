@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="container">
+  <div class="row pb-3 border-bottom">
+    <h1 class="pt-5">{{ .Title }}</h1>
+  </div>
+  <div class="border-bottom py-3 row">
+    <div>
+      <i class="far fa-calendar"></i> {{ .Date.Format "Mon, Jan 2, 2006" }}{{ with .Params.startTime }}, {{ . }}{{ end }}
+      {{ with .Params.endTime }} - {{ . }}{{ end }}
+      {{ with .Params.location }}<div><i class="fas fa-map-marker-alt"></i> {{ . }}</div>{{ end }}
+      
+      {{ if isset .Params "tags"}}
+      <i class="fas fa-tags"></i>
+      {{ range .Params.tags }}
+      <a href="{{ "tags/" | absLangURL }}{{ . | urlize }}" class="badge badge-primary">{{ . }}</a>
+      {{ end }}
+      {{ end }}
+      {{ .Params.categories }}
+      {{ with .Params.webinar }}<div><i class="fas fa-desktop"></i><a href="{{ . }}"> Go to webinar</a></div>{{ end }}
+    </div>
+  </div>
+  <div class="row my-3">
+    {{ .Content }}
+  </div>
+  <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-nihdatasciencesig-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+{{ end }}

@@ -1,0 +1,32 @@
+{{ define "main" }}
+<h1 class="display-4 mt-5">Upcoming events</h1>
+<h4>Join one of these upcoming events</h4>
+<hr>
+  {{ range $e := $.Data.Pages.Reverse }}
+  {{ if ge $e.Date now }}
+  <div class="row border-bottom py-3">
+    <div class="col-3">
+      <div class="py-1">
+        <i class="far fa-calendar"></i><span> {{ .Date.Format "Mon, January 2, 2006" }}</span>
+      </div>
+      <div class="py-1">
+        <i class="fas fa-map-marker"></i><span> {{ .Params.location }}</span>
+      </div>
+    </div>
+    <img class="rounded-circle" style="width: 75px; height: 75px" src="/abstract-1780124_1920.png"></img>
+    <div class="col-6">
+      <h4>{{ .Title }}</h4>
+      {{ with .Params.presenter }}<p class="card-title">{{ . }}</p>{{ end }}
+      <i class="fas fa-tags"></i>
+      {{ range .Params.tags }}
+      <a href="{{ "tags/" | absLangURL }}{{ . | urlize }}" class="badge badge-primary">{{ . }}</a>
+      {{ end }}
+    </div>
+    <div class="clearfix">
+      <a href="{{ .Permalink }}" class="align-bottom"><button class="btn btn-outline-primary align-bottom">Details</button></a>
+    </div>
+  </div>
+          {{ end }}
+
+  {{ end }}
+{{ end }}
