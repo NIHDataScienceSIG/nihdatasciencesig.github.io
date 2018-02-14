@@ -25,7 +25,7 @@
     <item>
       <title>Big Data</title>
       <link>https://nihdatasciencesig.github.io/tags/big-data/</link>
-      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       <author>seandavi@gmail.com (NIH Data Science SIG)</author>
       <guid>https://nihdatasciencesig.github.io/tags/big-data/</guid>
       <description></description>
@@ -41,11 +41,38 @@
     </item>
     
     <item>
+      <title>Chemistry</title>
+      <link>https://nihdatasciencesig.github.io/tags/chemistry/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/tags/chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical</title>
+      <link>https://nihdatasciencesig.github.io/tags/clinical/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/tags/clinical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Science</title>
       <link>https://nihdatasciencesig.github.io/tags/data-science/</link>
-      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       <author>seandavi@gmail.com (NIH Data Science SIG)</author>
       <guid>https://nihdatasciencesig.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://nihdatasciencesig.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
