@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on NIH Data Science SIG</title>
+    <link>https://nihdatasciencesig.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on NIH Data Science SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>seandavi@gmail.com (NIH Data Science SIG)</managingEditor>
+    <webMaster>seandavi@gmail.com (NIH Data Science SIG)</webMaster>
+    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nihdatasciencesig.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Translating from Chemistry to Clinic with Deep Learning</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/03/07/translating-from-chemistry-to-clinic-with-deep-learning/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/03/07/translating-from-chemistry-to-clinic-with-deep-learning/</guid>
+      <description>NLM Informatics and Data Science Lecture Series
+Abstract: Many medicines become toxic only after bioactivation by metabolizing enzymes. Often, metabolic enzymes transformed them into chemically reactive species, which subsequently conjugate to proteins and cause adverse events. For example, carbamazepine is epoxidized by P450 enzymes in the liver, but then conjugates to proteins, causing Stevens Johnson Syndrome in some patients. The most difficult to predict drug reactions, idiosyncratic adverse drug reactions, often depend on bioactivation.</description>
+    </item>
+    
+    <item>
+      <title>CANDLE Two-day Big Data Workshop</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/21/candle-two-day-big-data-workshop/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/21/candle-two-day-big-data-workshop/</guid>
+      <description>Do you have massive amounts of data? Have you heard about deep learning and machine learning and would like to learn to utilize these approaches in your research? Join us for the CANDLE workshop to explore one of many ways high-performance computing can be used to tackle cancer research challenges and advance precision oncology.
+The CANDLE workshop is a collaboration between the NCI Center for Biomedical Informatics and Information Technology, Frederick National Laboratory for Cancer Research, and the Department of Energy’s (DOE) National Laboratories (Argonne, Lawrence Livermore, Los Alamos, and Oak Ridge).</description>
+    </item>
+    
+  </channel>
+</rss>

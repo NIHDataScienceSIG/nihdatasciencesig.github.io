@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiv on NIH Data Science SIG</title>
+    <link>https://nihdatasciencesig.github.io/tags/hiv/</link>
+    <description>Recent content in Hiv on NIH Data Science SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>seandavi@gmail.com (NIH Data Science SIG)</managingEditor>
+    <webMaster>seandavi@gmail.com (NIH Data Science SIG)</webMaster>
+    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nihdatasciencesig.github.io/tags/hiv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linking Computational and Experimental Biology in HIV Research</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/03/29/linking-computational-and-experimental-biology-in-hiv-research/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/03/29/linking-computational-and-experimental-biology-in-hiv-research/</guid>
+      <description>Location: Frederick National Laboratory for Cancer Research
+Bldg 549 Scientific Library
+549 Sultan St, Frederick, MD 21702
+Main Conference Room
+No Registration is Required
+Schedule Thursday, March 29th    Time Presenter Talk Title     9:00 – 9:30 Brandon Keele, Ph.D. - AIDS and Cancer Virus Program Welcome and Introduction   9:30 – 10:30 Alan Perelson, Ph.D. Los Alamos National Laboratory Plenary Talk: Modeling interactions between HIV/SIV and antibodies and effector cells   10:30 – 11:00 COFFEE BREAK    11:00 – 11:30 Christine Fennessey, Ph.</description>
+    </item>
+    
+  </channel>
+</rss>

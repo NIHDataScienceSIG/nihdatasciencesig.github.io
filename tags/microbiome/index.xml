@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microbiome on NIH Data Science SIG</title>
+    <link>https://nihdatasciencesig.github.io/tags/microbiome/</link>
+    <description>Recent content in Microbiome on NIH Data Science SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>seandavi@gmail.com (NIH Data Science SIG)</managingEditor>
+    <webMaster>seandavi@gmail.com (NIH Data Science SIG)</webMaster>
+    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nihdatasciencesig.github.io/tags/microbiome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Haloarchaeal genomics and the origin of the prokaryotic ‘species’</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/08/haloarchaeal-genomics-and-the-origin-of-the-prokaryotic-species/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/08/haloarchaeal-genomics-and-the-origin-of-the-prokaryotic-species/</guid>
+      <description>About the speaker: Dr. DasSarma is a pioneering microbiologist well-known for his contributions to the genomics, molecular biology, and biotechnology of Archaea and the field of Astrobiology. Prior to joining the Institute of Marine and Environmental Technology, University of Maryland School of Medicine, he was a Professor in the University of Massachusetts Amherst and the University of Maryland Biotechnology Institute. He has published over 125 scientific papers over his career and mentored many students.</description>
+    </item>
+    
+  </channel>
+</rss>

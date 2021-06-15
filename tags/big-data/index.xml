@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on NIH Data Science SIG</title>
+    <link>https://nihdatasciencesig.github.io/tags/big-data/</link>
+    <description>Recent content in Big Data on NIH Data Science SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>seandavi@gmail.com (NIH Data Science SIG)</managingEditor>
+    <webMaster>seandavi@gmail.com (NIH Data Science SIG)</webMaster>
+    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nihdatasciencesig.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Translating from Chemistry to Clinic with Deep Learning</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/03/07/translating-from-chemistry-to-clinic-with-deep-learning/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/03/07/translating-from-chemistry-to-clinic-with-deep-learning/</guid>
+      <description>NLM Informatics and Data Science Lecture Series
+Abstract: Many medicines become toxic only after bioactivation by metabolizing enzymes. Often, metabolic enzymes transformed them into chemically reactive species, which subsequently conjugate to proteins and cause adverse events. For example, carbamazepine is epoxidized by P450 enzymes in the liver, but then conjugates to proteins, causing Stevens Johnson Syndrome in some patients. The most difficult to predict drug reactions, idiosyncratic adverse drug reactions, often depend on bioactivation.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing massive genomics datasets using Apache Spark</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/26/analyzing-massive-genomics-datasets-using-apache-spark/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/26/analyzing-massive-genomics-datasets-using-apache-spark/</guid>
+      <description>Abstract: Powered by the continuous decrease of the cost of sequencing a single human genome, &amp;laquo;big data&amp;raquo; sequencing studies (&amp;gt;10,000 sample) are becoming common in both industrial and research settings. Recently, several prominent libraries like GATK4, ADAM, and Hail have used Apache Spark to achieve this goal. Apache Spark is a &amp;laquo;map-reduce&amp;raquo;-like system that allows code written in Scala, Java, Python, R, or SQL to be run in parallel across a cluster with hundreds to thousands of cores.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on NIH Data Science SIG</title>
+    <link>https://nihdatasciencesig.github.io/tags/training/</link>
+    <description>Recent content in Training on NIH Data Science SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>seandavi@gmail.com (NIH Data Science SIG)</managingEditor>
+    <webMaster>seandavi@gmail.com (NIH Data Science SIG)</webMaster>
+    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nihdatasciencesig.github.io/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One-day NIH Data Science Learning and Testing Hackathon (application required)</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/23/one-day-nih-data-science-learning-and-testing-hackathon-application-required/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/23/one-day-nih-data-science-learning-and-testing-hackathon-application-required/</guid>
+      <description>About the event The NIH will host a Learning and Testing Data Science hackathon on February 23rd, 2018 on the main campus in Bethesda, MD. Learners will test alpha and beta code that have been generated in full, collaborative development hackathons for a wide range of scientific problems, including general bioinformatics and genomic analyses in addition to text, image, and sequence processing. This event is for researchers who are in the early stages of their data science journey, including students and postdocs.</description>
+    </item>
+    
+    <item>
+      <title>CANDLE Two-day Big Data Workshop</title>
+      <link>https://nihdatasciencesig.github.io/event/2018/02/21/candle-two-day-big-data-workshop/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <author>seandavi@gmail.com (NIH Data Science SIG)</author>
+      <guid>https://nihdatasciencesig.github.io/event/2018/02/21/candle-two-day-big-data-workshop/</guid>
+      <description>Do you have massive amounts of data? Have you heard about deep learning and machine learning and would like to learn to utilize these approaches in your research? Join us for the CANDLE workshop to explore one of many ways high-performance computing can be used to tackle cancer research challenges and advance precision oncology.
+The CANDLE workshop is a collaboration between the NCI Center for Biomedical Informatics and Information Technology, Frederick National Laboratory for Cancer Research, and the Department of Energy’s (DOE) National Laboratories (Argonne, Lawrence Livermore, Los Alamos, and Oak Ridge).</description>
+    </item>
+    
+  </channel>
+</rss>
